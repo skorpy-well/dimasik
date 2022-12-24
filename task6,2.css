@@ -1,0 +1,19 @@
+h1,h2{
+	font-family: cursive;
+	text-align: center;
+	color: red;
+	text-shadow: 0px 0px 3px black;
+}
+p{
+	font-family: cursive; ;
+    color: orange;
+}
+a{
+
+}
+button{
+	color: green;
+	border-radius: 50%;
+	width: 100px;
+    background-color: lime;
+}
